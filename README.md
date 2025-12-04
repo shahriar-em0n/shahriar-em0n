@@ -14,7 +14,7 @@
 ---
 
 ### 🛠️ Tech Stack
-
+<img src="https://skillicons.dev/icons?i=c,cpp,go,postgresql,docker,linux,git,github,html,css,bash&perline=6"/>
 
 ## 🔥 GitHub Streak
 
