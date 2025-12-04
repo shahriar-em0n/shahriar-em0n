@@ -17,10 +17,7 @@
 <img src="https://skillicons.dev/icons?i=c,cpp,go,postgresql,docker,linux,git,github,html,css,bash&perline=6"/>
 
 ## 🔥 GitHub Streak
-
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=shahriar-em0n&theme=radical)
-
-
 
 ---
 
