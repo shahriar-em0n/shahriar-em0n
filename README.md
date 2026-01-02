@@ -19,7 +19,7 @@
   
 ## 📊 GitHub Stats
 
-<img width="32%" src="https://nirzak-streak-stats.vercel.app?user=shahriar-em0n&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak"/> <img width="32%" src="https://github-readme-stats.vercel.app/api?username=shahriar-em0n&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/> <img width="32%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shahriar-em0n&langs_count=8&layout=compact&theme=react&border_radius=10&hide_border=true" alt="Top Languages"/>
+<img width="32%" src="https://nirzak-streak-stats.vercel.app?user=shahriar-em0n&theme=react&hide_border=true&border_radius=10" alt="GitHub Streak"/> <img width="32%" src="https://github-readme-stats.vercel.app/api?username=shahriar-em0n&show_icons=true&theme=react&border_radius=10&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
 
 </div>
 
